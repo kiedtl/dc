@@ -1,0 +1,36 @@
+# dungeon craft
+
+Dungeon Craft (or, as it will also be referred to, DC) is a 2D,
+console-based game that aims to combine the gameplay of traditional
+rogue-like games (especially Dungeon Crawler Stone Soup) and voxel-based
+game such as Minecraft and Minetest.
+
+Like rogue-like games, the game occurs in an underground cavern system;
+unlike rogue games, there is only one level. As in Minetest, hostile
+mobs are randomly generated throughout the map; however, these mobs are
+almost always more dangerous than their Minetest counterparts.
+
+The substances the map is composed of may be mined, and then arranged into
+new structures, as in Minetest.
+
+## gameplay
+### map
+
+The map is composed of the following substances, in descending order of
+rarity:
+
+- stone
+- gravel
+- sand
+- granite
+- iron ore
+- marble
+- copper ore
+- lead ore
+- aluminum ore
+- basalt
+- silver ore
+- gold ore
+- mithril ore
+- obsidian (or lava)
+- diamond
